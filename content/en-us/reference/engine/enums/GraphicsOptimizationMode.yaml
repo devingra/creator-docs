@@ -13,11 +13,11 @@ items:
     deprecation_message: ''
   - name: Balanced
     summary: ''
-    value: 1
+    value: 5
     tags: []
     deprecation_message: ''
   - name: Quality
     summary: ''
-    value: 2
+    value: 10
     tags: []
     deprecation_message: ''
